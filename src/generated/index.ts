@@ -38,7 +38,7 @@ export type { EntryFunctionPayload } from './models/EntryFunctionPayload';
 // export type { HealthCheckSuccess } from './models/HealthCheckSuccess';
 export type { HexEncodedBytes } from './models/HexEncodedBytes';
 export type { IdentifierWrapper } from './models/IdentifierWrapper';
-export type { IndexResponse } from './models/IndexResponse';
+// export type { IndexResponse } from './models/IndexResponse';
 export type { ModuleBundlePayload } from './models/ModuleBundlePayload';
 export type { MoveAbility } from './models/MoveAbility';
 export type { MoveFunction } from './models/MoveFunction';
